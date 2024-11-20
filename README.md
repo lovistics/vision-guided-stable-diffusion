@@ -96,7 +96,7 @@ Key parameters:
 
 Required environment variables:
 ```bash
-OPENAI_API_KEY=your_api_key_here
+OPENAI_API_KEY
 ```
 
 ## Known Issues & Troubleshooting
