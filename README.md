@@ -15,7 +15,7 @@ A computer vision pipeline that leverages facial landmark detection and pose est
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/vision-guided-stable-diffusion.git
+git clone https://github.com/lovistics/vision-guided-stable-diffusion.git
 cd vision-guided-stable-diffusion
 
 # Install dependencies
@@ -116,7 +116,7 @@ MIT License. See LICENSE for details.
   title = {Vision-Guided Stable Diffusion with ControlNet},
   author = {Lovice Ochieng},
   year = {2024},
-  url = {https://github.com/yourusername/vision-guided-stable-diffusion}
+  url = {https://github.com/lovistics/vision-guided-stable-diffusion.git}
 }
 ```
 
